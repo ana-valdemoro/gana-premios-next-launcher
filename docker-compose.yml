@@ -5,7 +5,7 @@ services:
     restart: always
     environment:
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=minumero1
+      - POSTGRES_PASSWORD=A1234567?
       - POSTGRES_DB=gana_premios_db
 
     ports:
